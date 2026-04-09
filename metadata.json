@@ -1,0 +1,5 @@
+{
+  "name": "SleepSync",
+  "description": "Ein professioneller Schlafzyklus-Rechner als PWA, der den perfekten Wecker basierend auf der Einschlafzeit berechnet.",
+  "requestFramePermissions": []
+}
