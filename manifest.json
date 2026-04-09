@@ -1,0 +1,17 @@
+{
+  "name": "SleepSync Pro",
+  "short_name": "SleepSync",
+  "description": "Dein perfekter Schlafzyklus-Wecker. Berechnet die optimalen Aufwachzeiten basierend auf 90-minütigen Schlafzyklen.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#020617",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
